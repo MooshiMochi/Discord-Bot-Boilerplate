@@ -1,0 +1,23 @@
+constants:
+  log-channel-id: 1001402875773198386
+  owner-ids:
+    - 383287544336613385
+    - 169756921329483776
+  test-guild-ids:
+    - 875606124022358016
+    - 1008900179170173018
+debug: true
+extensions:
+  - src.cogs.dev
+  - src.core.database
+prefix: '?'
+privileged-intents:
+  members: true
+  message_content: true
+  presences: false
+database:
+  ip: 192.168.0.11
+  port: 1234
+  username: postgres_username
+  password: postgres_password
+token: your_bot_token_here

@@ -1,0 +1,6 @@
+aiohttp
+asyncio
+discord.py[speed]
+aiofiles
+pyyaml
+asyncpg
