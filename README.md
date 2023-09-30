@@ -1,12 +1,10 @@
-# Miasma Public Bot
-
-### If you want to invite the bot to your server, click [here.](https://discord.com/api/oauth2/authorize?client_id=875702787491655691&permissions=8&scope=applications.commands%20bot)
+# Discord Bot Boilerplate
 
 ### Consider supporting me through [Ko-fi](https://ko-fi.com/mooshi69) or [Patreon](https://patreon.com/mooshi69).
 
 ## About:
 
-This is the official public release of the [MiasmaAU](https://discord.gg/3XMhkJUBMy) discord bot.
+This is a boilerplate repository for creating discord bots using discord.py and Python 3.10+.
 
 # Developers Section
 
@@ -21,7 +19,7 @@ How to set up the bot:
 1.  Cloning the repository
 
     ```bash
-    git clone https://github.com/taporsnap37/miasma-public-bot; cd miasma-public-bot
+    git clone https://github.dev/MooshiMochi/Discord-Bot-Boilerplate; cd Discord-Bot-Boilerplate
     ```
 
 2.  Running the bot
@@ -49,4 +47,4 @@ I will review the changes and merge them if they are good.
 
 ## Support
 
-If you have any questions, feel free to join the [Support Server](https://discord.gg/3XMhkJUBMy) and ask there.
+If you have any questions, feel free to join the [Support Server](https://discord.gg/TYkw8VBZkr) and ask there.

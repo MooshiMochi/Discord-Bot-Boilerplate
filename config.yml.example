@@ -10,6 +10,7 @@ debug: true
 extensions:
   - src.cogs.dev
   - src.core.database
+  - src.handlers.error
 prefix: '?'
 privileged-intents:
   members: true
